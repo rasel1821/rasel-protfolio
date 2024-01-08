@@ -56,7 +56,7 @@ header{
           display: flex; align-items: center;
           justify-content: space-between;
 }
-.banner .profile-picture{
+.banner .profile-pic{
           width: 500px;  }
 .banner-greeting{ font-size: 45px;
           color: #474747;
@@ -76,7 +76,7 @@ header{
 }
 main{|
 max-width: 1140px;
-margin: 150px auto;
+margin: 0px auto;
 }
 
 .section-title{
@@ -94,7 +94,7 @@ margin: 150px auto;
 .about{
           padding: 130px;
           border-radius: 10px;
-          background-color: #91bc5f92 ;
+          background-color: #b85a4692 ;
           margin: 130px 0;
 
 }
