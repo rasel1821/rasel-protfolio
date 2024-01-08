@@ -155,3 +155,9 @@ font-style: normal; font-weight: 700;
 .Download-CV{
           text-align: center;margin: 50px;
 }
+footer{
+          display: flex;
+          background: chartreuse;
+          margin-top: 100px;
+          padding: 130px 200px;
+}
